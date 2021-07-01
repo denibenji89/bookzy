@@ -15,7 +15,7 @@
 	<name>web-app</name>
 	<description>Project 1 Online bookstore web app</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
